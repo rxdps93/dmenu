@@ -7,6 +7,8 @@ Patches Applied
 * xresources:           dmenu-xresources-4.9.diff
 * allow color fonts:    dmenu-allow-color-font-5.0.diff
 * password:             dmenu-password-5.0.diff
+* reject no match:      dmenu-rejectnomatch-4.7.diff
+* mouse support:        dmenu-mousesupport-5.3.diff
 
 Requirements
 ------------
