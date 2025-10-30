@@ -4,7 +4,8 @@ dmenu is an efficient dynamic menu for X.
 
 Patches Applied
 ---------------
-* xresources:   dmenu-xresources-4.9.diff
+* xresources:           dmenu-xresources-4.9.diff
+* allow color fonts:    dmenu-allow-color-font-5.0.diff
 
 Requirements
 ------------
