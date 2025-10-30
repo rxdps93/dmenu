@@ -9,6 +9,7 @@ Patches Applied
 * password:             dmenu-password-5.0.diff
 * reject no match:      dmenu-rejectnomatch-4.7.diff
 * mouse support:        dmenu-mousesupport-5.3.diff
+* alpha:                dmenu-alpha-20230110-5.2.diff
 
 Requirements
 ------------
