@@ -3,5 +3,6 @@ diffs/
 *.rej
 *.orig
 *.o
+config.h
 stest
 dmenu

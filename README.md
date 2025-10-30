@@ -4,7 +4,7 @@ dmenu is an efficient dynamic menu for X.
 
 Patches Applied
 ---------------
-
+* xresources:   dmenu-xresources-4.9.diff
 
 Requirements
 ------------
